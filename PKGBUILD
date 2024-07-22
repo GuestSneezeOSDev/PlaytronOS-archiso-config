@@ -8,7 +8,7 @@ arch=('any')
 url="https://playtron.one"
 license=('GPL')
 depends=('archiso')
-source=("https://drive.google.com/uc?export=download&id=1F661LGR9eCIzl-CCvfXs7BUT-DbPbyOf")
+source=("https://github.com/GuestSneezeOSDev/PlaytronOS-archiso-config/blob/main/playtron-os-files-main.tar.gz")
 sha256sums=('SKIP')
 
 package() {
