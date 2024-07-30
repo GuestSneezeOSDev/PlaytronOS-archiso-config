@@ -7,7 +7,7 @@ pkgdesc="Custom Archiso configuration of PlaytronOS by GuestSneezeOSDev"
 arch=('any')
 url="https://playtron.one"
 license=('GPL')
-depends=('archiso')
+depends=('archiso git')
 source=("https://github.com/GuestSneezeOSDev/PlaytronOS-archiso-config/blob/main/playtron-os-files-main.tar.gz")
 sha256sums=('SKIP')
 
